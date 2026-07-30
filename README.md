@@ -10,4 +10,6 @@
 ![Go](https://img.shields.io/badge/Go-39D353?style=for-the-badge&logo=go&logoColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-39D353?style=for-the-badge&logo=typescript&logoColor=0D1117)
 
+<img src="https://raw.githubusercontent.com/MrKuros/MrKuros/output/snake-dark.svg" alt="snake" />
+
 </div>
