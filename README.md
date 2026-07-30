@@ -12,16 +12,16 @@
 
 <table border="0" cellspacing="0" cellpadding="4">
 <tr>
-<td><a href="https://github.com/MrKuros/diskless_kafka"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=diskless_kafka&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400"/></a></td>
-<td><a href="https://github.com/MrKuros/pyiceberg-impl"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=pyiceberg-impl&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400"/></a></td>
+<td><a href="https://github.com/MrKuros/diskless_kafka"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=diskless_kafka&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400" height="150"/></a></td>
+<td><a href="https://github.com/MrKuros/pyiceberg-impl"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=pyiceberg-impl&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400" height="150"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/MrKuros/Blender-Cloud-Storage"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=Blender-Cloud-Storage&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400"/></a></td>
-<td><a href="https://github.com/MrKuros/orgai-platform"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=orgai-platform&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400"/></a></td>
+<td><a href="https://github.com/MrKuros/Blender-Cloud-Storage"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=Blender-Cloud-Storage&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400" height="150"/></a></td>
+<td><a href="https://github.com/MrKuros/orgai-platform"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=orgai-platform&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400" height="150"/></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/MrKuros/cool"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=cool&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400"/></a></td>
-<td><a href="https://github.com/MrKuros/go-crawler"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=go-crawler&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400"/></a></td>
+<td><a href="https://github.com/MrKuros/cool"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=cool&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400" height="150"/></a></td>
+<td><a href="https://github.com/MrKuros/go-crawler"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=go-crawler&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a&description_lines_count=2" width="400" height="150"/></a></td>
 </tr>
 </table>
 
