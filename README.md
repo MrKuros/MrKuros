@@ -10,12 +10,14 @@
 
 ## ⌁ QUESTS
 
-| | |
-|---|---|
-| **[diskless_kafka](https://github.com/MrKuros/diskless_kafka)** — Kafka, without the disks | ![Python](https://img.shields.io/badge/Python-39D353?style=flat-square&logo=python&logoColor=0D1117) ![Kafka](https://img.shields.io/badge/Kafka-39D353?style=flat-square&logo=apachekafka&logoColor=0D1117) |
-| **[pyiceberg-impl](https://github.com/MrKuros/pyiceberg-impl)** — Apache Iceberg in Python | ![Python](https://img.shields.io/badge/Python-39D353?style=flat-square&logo=python&logoColor=0D1117) |
-| **[go-crawler](https://github.com/MrKuros/go-crawler)** — web crawler in Go | ![Go](https://img.shields.io/badge/Go-39D353?style=flat-square&logo=go&logoColor=0D1117) |
-| **[Blender-Cloud-Storage](https://github.com/MrKuros/Blender-Cloud-Storage)** — save Blender files to S3 | ![Python](https://img.shields.io/badge/Python-39D353?style=flat-square&logo=python&logoColor=0D1117) ![AWS](https://img.shields.io/badge/AWS-39D353?style=flat-square&logo=amazonwebservices&logoColor=0D1117) |
+<div align="center">
+
+<a href="https://github.com/MrKuros/diskless_kafka"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=diskless_kafka&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="diskless_kafka"/></a>
+<a href="https://github.com/MrKuros/pyiceberg-impl"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=pyiceberg-impl&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="pyiceberg-impl"/></a>
+<a href="https://github.com/MrKuros/go-crawler"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=go-crawler&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="go-crawler"/></a>
+<a href="https://github.com/MrKuros/Blender-Cloud-Storage"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=Blender-Cloud-Storage&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="Blender-Cloud-Storage"/></a>
+
+</div>
 
 <div align="center">
 
