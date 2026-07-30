@@ -10,6 +10,13 @@
 ![Go](https://img.shields.io/badge/Go-39D353?style=for-the-badge&logo=go&logoColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-39D353?style=for-the-badge&logo=typescript&logoColor=0D1117)
 
+<a href="https://github.com/MrKuros/diskless_kafka"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=diskless_kafka&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="diskless_kafka"/></a>
+<a href="https://github.com/MrKuros/pyiceberg-impl"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=pyiceberg-impl&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="pyiceberg-impl"/></a>
+<a href="https://github.com/MrKuros/Blender-Cloud-Storage"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=Blender-Cloud-Storage&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="Blender-Cloud-Storage"/></a>
+<a href="https://github.com/MrKuros/orgai-platform"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=orgai-platform&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="orgai-platform"/></a>
+<a href="https://github.com/MrKuros/cool"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=cool&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="cool"/></a>
+<a href="https://github.com/MrKuros/go-crawler"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MrKuros&repo=go-crawler&bg_color=0D1117&title_color=39D353&text_color=39D353&icon_color=39D353&border_color=1a4a1a" alt="go-crawler"/></a>
+
 <img src="https://raw.githubusercontent.com/MrKuros/MrKuros/output/snake-dark.svg" alt="snake" />
 
 </div>
