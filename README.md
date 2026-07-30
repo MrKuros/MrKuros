@@ -30,6 +30,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrKuros&show_icons=true&hide=contribs,prs&hide_border=true&hide_title=true&bg_color=0D1117&text_color=C9D1D9&icon_color=39D353&title_color=39D353" alt="stats" height="150"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrKuros&layout=compact&hide_border=true&hide_title=true&bg_color=0D1117&text_color=C9D1D9&title_color=39D353&hide_progress=true&exclude_repo=react_class,bootcamp,assignment,my-app,newsMonkey,dance,firstSite,calculator,stopwatch" alt="top langs" height="150"/>
+
+![Python](https://img.shields.io/badge/Python-39D353?style=for-the-badge&logo=python&logoColor=0D1117)
+![Go](https://img.shields.io/badge/Go-39D353?style=for-the-badge&logo=go&logoColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-39D353?style=for-the-badge&logo=typescript&logoColor=0D1117)
 
 </div>
